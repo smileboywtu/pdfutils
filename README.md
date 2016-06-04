@@ -1,6 +1,6 @@
 # why pdfutils
 
-pdfutils is a tool to manipulate the pdf with python. this project is inspired by the gerbil[1], but I'm  not satisfied with the function and code style it has, and I write a more powerful tool.
+pdfutils is a tool to manipulate the pdf with python. this project is inspired by the [gerbil][1], but I'm  not satisfied with the function and code style it has, and I write a more powerful tool.
 
 # feature
 
